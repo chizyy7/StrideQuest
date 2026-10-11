@@ -1,0 +1,76 @@
+# Flutter/Dart/Pub related
+**/doc/api/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/.pub/
+**build/
+**/.idea/
+
+# Dart VM
+**/dump/
+**/core/
+
+# Android related
+**/android/**/gradle-wrapper.jar
+**/android/.gradle
+**/android/**/captures
+**/android/**/externalNativeBuild**
+**/android/**/generated/
+**/android/**/google-services.json
+**/android/**/release/
+**/android/**/signing_config.xml
+
+# iOS/XCode related
+**/ios/**/.mode1v
+**/ios/**/.mode2v
+**/ios/**/mode2
+**/ios/**/xcodeobjects
+**/ios/**/*.ipa
+**/ios/**/xcshareddata/
+**/ios/**/xcuserdata/
+**/ios/**/*.gcno
+**/.symlinks
+**/ios/Flutter/
+**/ios/Flutter/**/*.xckeyfile
+**/ios/Flutter/**/*.xccheckout
+**/ios/Flutter/**/App.framework
+**/ios/Flutter/**/engine.
+**/ios/Flutter/**/xscale.xcconfig
+
+# Exceptions to the above gitignore rules
+# !/android/app/src/main/java/com/example/stridequest/MainActivity.java
+# !/ios/Runner/AppDelegate.swift
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Miscellaneous
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Logs
+*.log
+
+# SQLite
+*.sqlite3
+
+# Node related
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Do not ignore Isar generated files - they must be committed
+!*.g.dart

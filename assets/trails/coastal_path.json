@@ -1,0 +1,79 @@
+{
+  "id": "coastal_path",
+  "name": "Coastal Path",
+  "theme": "A warm coastal walk past cliffs, lighthouses, tide pools and hidden coves, from a quiet beach gate to a lantern-lit harbor.",
+  "totalDistanceM": 42195,
+  "milestones": [
+    {
+      "index": 0,
+      "name": "Driftwood Gate",
+      "distanceM": 4200,
+      "loreText": "The path begins where the sand gives way to grass. Someone has hung a bell on the old gate, and it rings softly as you pass.",
+      "rewardCoins": 5
+    },
+    {
+      "index": 1,
+      "name": "Gull Rock",
+      "distanceM": 8400,
+      "loreText": "A hundred gulls argue over the best ledge, and none of them mind you. The wind smells of salt and warm bread from somewhere inland.",
+      "rewardCoins": 10
+    },
+    {
+      "index": 2,
+      "name": "Tide Pool Terrace",
+      "distanceM": 12600,
+      "loreText": "The sea has stepped back and left small bright worlds in the rocks. Crouch down and see who is home.",
+      "rewardCoins": 15
+    },
+    {
+      "index": 3,
+      "name": "Lantern Point",
+      "distanceM": 16800,
+      "loreText": "A little white lighthouse keeps watch over the bay. The keeper leaves a thermos of something warm on the step for travelers.",
+      "rewardCoins": 20
+    },
+    {
+      "index": 4,
+      "name": "Halfway Cove",
+      "distanceM": 21098,
+      "loreText": "A crescent of pale sand, hidden until you are right on top of it. You have walked half a marathon, and the water looks very inviting.",
+      "rewardCoins": 25
+    },
+    {
+      "index": 5,
+      "name": "Smugglers' Steps",
+      "distanceM": 25300,
+      "loreText": "Worn stone stairs drop toward a cave mouth, and the stories about them get bolder every year. Nobody remembers who carved them.",
+      "rewardCoins": 30
+    },
+    {
+      "index": 6,
+      "name": "Whispering Cliffs",
+      "distanceM": 29500,
+      "loreText": "The wind plays the cliff face like a flute here. Stand still a moment and listen.",
+      "rewardCoins": 40
+    },
+    {
+      "index": 7,
+      "name": "Kelp Garden Bay",
+      "distanceM": 33700,
+      "loreText": "Golden kelp sways under clear green water, and seals drift lazily between the ribbons. The path runs close enough to wave.",
+      "rewardCoins": 50
+    },
+    {
+      "index": 8,
+      "name": "Sunset Headland",
+      "distanceM": 37900,
+      "loreText": "The last high point of the trail, and the sky puts on its best colors for it. The harbor lights are just coming into view.",
+      "rewardCoins": 60
+    },
+    {
+      "index": 9,
+      "name": "Harbor of Lanterns",
+      "distanceM": 42195,
+      "loreText": "Boats bob in the dark water and every window along the quay glows. Someone has saved you a seat by the fire.",
+      "rewardCoins": 100
+    }
+  ],
+  "completedText": "You walked the whole Coastal Path, from the first bell to the last lantern, one step at a time."
+}
